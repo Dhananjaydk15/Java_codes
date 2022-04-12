@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Palindrome {
+public class PalindromeNo {
     public static void main(String[] args) {
         System.out.print("\t* Enter The No. : ");
         Scanner obj = new Scanner(System.in);
